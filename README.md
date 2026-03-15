@@ -32,4 +32,4 @@ Apesar da região da Virgínia do Norte apresentar um custo financeiro menor, a 
 1. **Baixa Latência (Acesso Rápido):** O projeto exige acesso rápido aos dados coletados pelos sensores espalhados pela fazenda. Manter o servidor geograficamente próximo (no Brasil) reduz drasticamente a latência de rede (ping), garantindo processamento em tempo real.
 2. **Compliance Legal:** O enunciado destaca restrições legais para armazenamento de dados no exterior. Ao hospedar a aplicação na região de São Paulo, garantimos a conformidade com as leis locais de proteção e soberania de dados (como a LGPD), evitando multas e quebra de contratos.
 
-* **Vídeo Demonstrativo (AWS):** [COLOQUE O LINK DO SEU VÍDEO DO YOUTUBE AQUI]
+* **Vídeo Demonstrativo (AWS):** https://youtu.be/kaJEX0Yj94U
