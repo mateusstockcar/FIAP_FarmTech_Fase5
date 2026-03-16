@@ -154,8 +154,8 @@ Jupyter Notebook
 AWS EC2
 
 AWS Pricing Calculator
----
 
+---
 ## 👨‍🎓 Integrantes — Grupo S
 
 
