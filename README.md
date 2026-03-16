@@ -138,6 +138,7 @@ FIAP_FarmTech_Fase5/
 ├── crop_yield.csv
 ├── LICENSE
 └── README.md
+```
 
 🧑‍💻 Tecnologias Utilizadas
 
