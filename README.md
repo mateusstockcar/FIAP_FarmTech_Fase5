@@ -4,7 +4,7 @@
   <img src="src/assets/logo-fiap.png" width="80%" alt="FIAP">
 </p>
 
-# 🚜 FarmTech Solutions - Fase 5 (Machine Learning & Cloud)
+# 🚜 FarmTech Solutions - Fase 5 (Machine Learning & Cloud) 
 
 Este repositório contém as entregas da Fase 5 do projeto FarmTech Solutions, contemplando o desenvolvimento de modelos preditivos (Machine Learning) e a arquitetura de infraestrutura na nuvem (AWS).
 
