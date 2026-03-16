@@ -139,9 +139,9 @@ FIAP_FarmTech_Fase5/
 ├── LICENSE
 └── README.md
 ```
-
-## 🧑‍💻 Tecnologias Utilizadas
 ---
+## 🧑‍💻 Tecnologias Utilizadas
+
 
 Python
 
@@ -154,10 +154,11 @@ Jupyter Notebook
 AWS EC2
 
 AWS Pricing Calculator
+---
 
 ## 👨‍🎓 Integrantes — Grupo S
 
----
+
 <a href="https://www.linkedin.com/in/leno-siqueira-36789544?utm_source=share_via&utm_content=profile&utm_medium=member_ios">Leno Siqueira</a> — RM: 567893
 
 <a href="https://www.linkedin.com/in/paulo-benfica-76057a7b">Paulo Benfica</a> — RM: 567648
@@ -166,8 +167,10 @@ AWS Pricing Calculator
 
 <a href="https://www.linkedin.com/in/math-penteado-1b4807200/">Mateus Lima</a> — RM: 568518
 
-## 👩‍🏫 Professores Responsáveis
 ---
+## 👩‍🏫 Professores Responsáveis
+
+
 Tutor(a)
 
 <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b?utm_source=share_via&utm_content=profile&utm_medium=member_ios/">Sabrina Otoni FIAP</a>
@@ -176,7 +179,8 @@ Coordenador(a)
 
 <a href="https://www.linkedin.com/company/inova-fusca/">André Godoi FIAP</a>
 
-📜 Créditos e Licença
+---
+## 📜 Créditos e Licença
 
 © 2025 — FIAP / PlantIA Agrodata
 
